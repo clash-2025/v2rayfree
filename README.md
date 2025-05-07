@@ -1,5 +1,5 @@
 
-# 公益免费v2ray节点订阅，每小时更新，最后更新时间：2025-05-07 23:57:02
+# 公益免费v2ray节点订阅，每小时更新，最后更新时间：2025-05-08 00:07:02
 
 ## 性价比机场推荐：[福云](https://fuuu.cloud)
 
@@ -19,11 +19,11 @@
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250507.txt 
+https://clashfreenode.com/feed/v2ray-20250508.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250507.yaml
+https://clashfreenode.com/feed/clash-20250508.yaml
 
 ## 客户端下载
 
