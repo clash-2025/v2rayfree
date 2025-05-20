@@ -1,5 +1,5 @@
 
-# 公益免费v2ray节点订阅，每小时更新，最后更新时间：2025-05-20 23:57:01
+# 公益免费v2ray节点订阅，每小时更新，最后更新时间：2025-05-21 00:07:02
 
 ## 性价比机场推荐：[福云](https://fuuu.cloud)
 
@@ -11,19 +11,17 @@
 
 购买套餐时输入【fuuu.cloud】优惠码，可享7折优惠，折后低至8元/月。
 
-🎁 五一劳动节特惠活动：5月1日至5月20日期间，购买季套餐赠送月套餐，购买年套餐赠送季套餐。
-
 点击进入[福云机场官网](https://fuuu.cloud)。
 
 ## 免费节点订阅链接
 
 v2ray订阅链接：
 
-https://clashfreenode.com/feed/v2ray-20250520.txt 
+https://clashfreenode.com/feed/v2ray-20250521.txt 
 
 clash订阅链接：
 
-https://clashfreenode.com/feed/clash-20250520.yaml
+https://clashfreenode.com/feed/clash-20250521.yaml
 
 ## 客户端下载
 
